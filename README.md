@@ -23,3 +23,5 @@
 - **AHT**
 - **BIG DATA**
 - **DRM**
+- **PMS**
+- **RTIPS**
