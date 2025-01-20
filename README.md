@@ -25,3 +25,4 @@
 - **DRM**
 - **PMS**
 - **RTIPS**
+- **FINANCIAL ANALYTICS LAB**
